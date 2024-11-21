@@ -7,7 +7,7 @@ I'm a **professional full-stack developer** with a passion for crafting efficien
 
 ## 🛠️ Languages & Tools
 
-### Languages:
+### Programming Languages:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,10 +18,7 @@ I'm a **professional full-stack developer** with a passion for crafting efficien
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+### DataBase:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📈 Goals
-I'm always eager to learn new technologies, enhance my skills, and contribute to innovative projects.
-
-## 📫 Let's Connect
-Feel free to reach out or check out my projects here on GitHub!
