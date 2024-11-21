@@ -1,7 +1,9 @@
 # Hi there, I'm Ahmed 👋
 
 ## 🚀 About Me
-I'm a **professional full-stack developer** with a passion for crafting efficient and scalable web applications. Currently, I'm working on:
+I'm a **professional full-stack developer**
+
+** Currently, I'm working on:
 - An **Affiliate Marketing Website**
 - A **Portfolio Website**
 
