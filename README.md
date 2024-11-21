@@ -4,8 +4,8 @@
 I'm a **professional full-stack developer** 👀
 
 ### Currently, I'm working on:
-- An **Affiliate Marketing Website**
-- A **Portfolio Website**
+- **Affiliate Marketing Website**
+- **Portfolio Website**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="70" height="70" />
