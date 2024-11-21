@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed 👋
 
 ## 🚀 About Me
-I'm a **professional full-stack developer** 👀
+I'm a **full-stack developer** 👀
 
 ### Currently, I'm working on:
 - **Affiliate Marketing Website**
