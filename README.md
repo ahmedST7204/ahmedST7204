@@ -20,15 +20,5 @@ I'm a **full-stack developer** 👀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" />
 </p>
 
-
-## My GitHub Stats 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
-
-## My Activity Graph 🌟
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/yourusername/github-readme-activity-graph)
-
-
-
-
 ###
 <img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation" />
