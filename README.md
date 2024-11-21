@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **professional full-stack developer**
 
-** Currently, I'm working on:
+### Currently, I'm working on:
 - An **Affiliate Marketing Website**
 - A **Portfolio Website**
 
