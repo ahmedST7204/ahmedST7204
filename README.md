@@ -6,7 +6,7 @@ I'm a **Full-Stack Web Developer** 👀
 ### Currently, I'm working on:
 - **Affiliate Marketing Website**
 - **Portfolio Website**
-- **AI Program**
+- **Python Projects**
 
 ### Tech Stack:
 <p align="center">
