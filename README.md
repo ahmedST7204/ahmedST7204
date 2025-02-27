@@ -1,11 +1,12 @@
 # Hi, I'm Ahmed 👋
 
 ## 🚀 About Me
-I'm a **full-stack developer** 👀
+I'm a **Full-Stack Web Developer** 👀
 
 ### Currently, I'm working on:
 - **Affiliate Marketing Website**
 - **Portfolio Website**
+- **AI Program**
 
 ### Tech Stack:
 <p align="center">
