@@ -6,7 +6,9 @@ I'm a **Front-End Web Developer** 👀
 ### Currently, I'm working on:
 - **Affiliate Marketing Website**
 - **Portfolio Website**
+- **React JS Projects**
 - **Python Projects**
+
 
 ### Tech Stack:
 <p align="center">
