@@ -4,10 +4,8 @@
 I'm a **Front-End Web Developer** 👀
 
 ### Currently, I'm working on:
-- **Affiliate Marketing Website**
-- **Portfolio Website**
-- **React JS Projects**
 - **Python Projects**
+- **React JS Projects**
 
 
 ### Tech Stack:
