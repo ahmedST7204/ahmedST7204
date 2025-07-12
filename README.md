@@ -5,7 +5,7 @@ I'm a **Front-End Web Developer** 👀
 
 ### Currently, I'm working on:
 - **Next JS Projects**
-- - **JavaScript Projects**
+- **JavaScript Projects**
 - **Python Projects**
 
 ### Tech Stack:
