@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed 👋
+z# Hi, I'm Ahmed 👋
 
 ## 🚀 About Me
 I'm a **Front-End Web Developer** 👀
@@ -21,9 +21,6 @@ I'm a **Front-End Web Developer** 👀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" />
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=ahmedST7204&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ###
 <img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation" />
