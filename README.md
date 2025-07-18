@@ -27,6 +27,3 @@ I'm a **Front-End Web Developer** 👀
 ###
 <img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation" />
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
