@@ -22,11 +22,6 @@ I'm a **Front-End Web Developer** 👀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" />
 </p>
 
-###
-<img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation" />
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedST7204&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedST7204&theme=dark&hide_border=false)<br/>
@@ -38,4 +33,5 @@ I'm a **Front-End Web Developer** 👀
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedST7204&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+<img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation" />
